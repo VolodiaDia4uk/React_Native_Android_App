@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "news_app",
+    "slug": "snack-0b50268f-b642-4342-aec0-417f0e933de1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "st.exp.exponent"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
